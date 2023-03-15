@@ -466,7 +466,7 @@
             max-width: 767px;
             width: 100%;
             margin: 0px auto;
-            padding: 10px auto;
+            padding:auto;
         }
         .topbar{
             order: 2;
