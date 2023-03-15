@@ -270,4 +270,8 @@
     .myslider{
         margin: 0px auto;
     }
+    .products-love ul{
+        margin: 0;
+        padding: 0;
+    }
 }
